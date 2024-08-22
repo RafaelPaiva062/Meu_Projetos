@@ -15,6 +15,12 @@ public class App {
         new UsuarioAO().cadastrarUsuario(passageiro);
 
         // LER OS DADOS:
+        // LER OS DADOS:
+        // LER OS DADOS:
+        // LER OS DADOS:
+        // LER OS DADOS:
+        // LER OS DADOS:
+        // LER OS DADOS:
 
         UsuarioAO usuarioAO = new UsuarioAO();
         List<Usuario> usuarios = usuarioAO.listarUsuarios();
