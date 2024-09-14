@@ -1,0 +1,2 @@
+JDK/Oracle_JDK-22/lib/modules filter=lfs diff=lfs merge=lfs -text
+Meus_Projetos filter=lfs diff=lfs merge=lfs -text
